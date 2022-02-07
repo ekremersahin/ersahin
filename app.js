@@ -10,4 +10,4 @@ main.element.innerHTML = `<div>
                             <p>e-mail: ekrem@ersahin.net</p>
                             <p>whatsapp: +90(530) 963 49 26</p>
                         </div>` ;
-main.renderTo(document.body);
+main.renderTo(document.body); 
